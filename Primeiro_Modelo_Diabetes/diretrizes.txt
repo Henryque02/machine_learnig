@@ -1,4 +1,0 @@
-um laboratório de análises clínicas que deseja prever os resultados de exames de diabetes com base em características dos pacientes,
-como idade, peso e altura. Para isso, vamos coletar dados de exames já realizados, onde temos as características dos pacientes e os resultados obtidos. 
-Com esses dados, vamos treinar um algoritmo supervisionado para criar um modelo preditivo. 
-A partir daí, poderemos usar esse modelo para prever os resultados de novos pacientes.
